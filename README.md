@@ -1,10 +1,12 @@
-# Ruby Bank
+# catalog_All_things
 
 - Users can store their favourite Books, Games and Music Albums in this Bank made of Ruby
 
 ## Built With
 
 - Languages: Ruby
+- testing: RSpec
+- DB: SQL
 
 ## Getting started
 
@@ -13,7 +15,7 @@ To get a local copy of this exercice, Please follow these simple example steps.
 #### 1. Clone this repository or download the Zip folder:"
 
 ```bash command
-$ git clone https://github.com/rex-9/RubyBank.git
+$ git clone https://github.com/said-laasri/catalog_All_things.git
 ```
 
 #### 2. Navigate to the location of the folder in your machine:
@@ -45,3 +47,17 @@ you@your-Pc-name:~$ cd <RubyBank>
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Microverse
+- Inspiration
+- etc
+
+## 📝 License
+
+This project is [MIT](./LICENSE) licensed.
